@@ -7,13 +7,13 @@ Create the following files:
 
 For index.html:
   - Add  title "Age Calculator"
-  - Create a <div> container
-  - Create a <h1> saying "Age Calculator"
-  - Create a <form> inside the <div>
-  - Create a <label> saying "Enter your date of birth"
-  - Create an <input>
-  - Create a <button> saying "Calculate Age"
-  - Create a <p> saying "Your age is 21 years old"
+  - Create a div container
+  - Create a h1 tag saying "Age Calculator"
+  - Create a form inside the div
+  - Create a label tag saying "Enter your date of birth"
+  - Create an input tag
+  - Create a button saying "Calculate Age"
+  - Create a p tag saying "Your age is 21 years old"
 
 For style.css:
   - Create various stylings
